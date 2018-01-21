@@ -7,7 +7,7 @@
   * Run ravend
 
 ```bash
-docker run --rm --name raven-wallet -v "$HOME/.raven:/root/.raven" -d raven-wallet
+docker run --rm --name raven-wallet -v "$HOME/.raven:/root/.raven" -d cgarnier/raven-wallet
 ```
 
   * Run commands
